@@ -1,0 +1,94 @@
+12
+Thresholds:
+FR:	532	525	0	3	
+XL:	4971	
+
+13
+Thresholds:
+FR:	706	705	0	3	
+XL:	4575	
+
+14
+Thresholds:
+FR:	831	831	0	3	
+XL:	3458	
+
+15
+Thresholds:
+FR:	898	896	0	3	
+XL:	3054	
+
+16
+Thresholds:
+FR:	948	947	0	25	
+XL:	3206	
+
+17
+Thresholds:
+FR:	971	970	0	3	
+XL:	3386	
+
+18
+Thresholds:
+FR:	984	983	0	3	
+XL:	4020	
+
+19
+Thresholds:
+FR:	988	985	0	3	
+XL:	3914	
+
+20
+Thresholds:
+FR:	992	990	0	3	
+XL:	3712	
+
+21
+Thresholds:
+FR:	993	991	0	3	
+XL:	3978	
+
+22
+Thresholds:
+FR:	993	991	0	3	
+XL:	2705	
+
+23
+Thresholds:
+FR:	992	988	0	3	
+XL:	3823	
+
+24
+Thresholds:
+FR:	993	990	0	3	
+XL:	3562	
+
+25
+Thresholds:
+FR:	992	990	0	3	
+XL:	4503	
+
+26
+Thresholds:
+FR:	990	988	0	3	
+XL:	3712	
+
+27
+Thresholds:
+FR:	981	976	0	1	
+XL:	3442	
+
+28
+Thresholds:
+FR:	972	971	0	3	
+XL:	4012	
+
+29
+Thresholds:
+FR:	950	948	0	2	
+XL:	4148	
+
+30
+Thresholds:
+FR:	903	901	0	1	
+XL:	3294

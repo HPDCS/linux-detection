@@ -1,0 +1,869 @@
+name i7-10750H
+2021-10-07 17:09:40,889 Starting ReCode and Tuning
+2021-10-07 17:09:41,282 Start with benchmarks
+2021-10-07 17:09:41,282 Processing: pts/amg
+2021-10-07 17:09:41,991 Options: [1]
+2021-10-07 17:09:41,991 Run with opt: [1]
+2021-10-07 17:09:41,993 ** Registered to ReCode statistics: pts/amg_[1]
+2021-10-07 17:10:10,135 Run finished with DETECTED: 0
+2021-10-07 17:10:10,147 * Watched
+2021-10-07 17:10:10,147 42328: amg	8	6227	90	0
+2021-10-07 17:10:10,147 42331: amg	4	14790	38	0
+2021-10-07 17:10:10,147 42327: amg	9	6791	115	0
+2021-10-07 17:10:10,147 42329: amg	9	5937	67	0
+2021-10-07 17:10:10,147 42325: amg	4	20881	58	0
+2021-10-07 17:10:10,147 42326: amg	4	1663	28	0
+2021-10-07 17:10:10,147 Processing: pts/astcenc
+2021-10-07 17:10:10,873 Options: [4]
+2021-10-07 17:10:10,873 Run with opt: [1]
+2021-10-07 17:10:10,874 ** Registered to ReCode statistics: pts/astcenc_[1]
+2021-10-07 17:10:26,826 Run finished with DETECTED: 0
+2021-10-07 17:10:26,856 * Watched
+2021-10-07 17:10:26,856 Run with opt: [2]
+2021-10-07 17:10:26,858 ** Registered to ReCode statistics: pts/astcenc_[2]
+2021-10-07 17:11:12,064 Run finished with DETECTED: 0
+2021-10-07 17:11:12,075 * Watched
+2021-10-07 17:11:12,075 Run with opt: [3]
+2021-10-07 17:11:12,077 ** Registered to ReCode statistics: pts/astcenc_[3]
+2021-10-07 17:14:38,732 Run finished with DETECTED: 0
+2021-10-07 17:14:38,744 * Watched
+2021-10-07 17:14:38,744 Processing: pts/avifenc
+2021-10-07 17:14:39,276 Options: [7]
+2021-10-07 17:14:39,277 Run with opt: [1]
+2021-10-07 17:14:39,278 ** Registered to ReCode statistics: pts/avifenc_[1]
+2021-10-07 17:17:26,771 Run finished with DETECTED: 0
+2021-10-07 17:17:26,784 * Watched
+2021-10-07 17:17:26,784 Run with opt: [2]
+2021-10-07 17:17:26,785 ** Registered to ReCode statistics: pts/avifenc_[2]
+2021-10-07 17:18:55,146 Run finished with DETECTED: 0
+2021-10-07 17:18:55,158 * Watched
+2021-10-07 17:18:55,158 Run with opt: [3]
+2021-10-07 17:18:55,160 ** Registered to ReCode statistics: pts/avifenc_[3]
+2021-10-07 17:19:29,858 Run finished with DETECTED: 0
+2021-10-07 17:19:29,870 * Watched
+2021-10-07 17:19:29,870 Processing: pts/basis
+2021-10-07 17:19:30,408 Options: [5]
+2021-10-07 17:19:30,408 Run with opt: [1]
+2021-10-07 17:19:30,410 ** Registered to ReCode statistics: pts/basis_[1]
+2021-10-07 17:20:25,776 Run finished with DETECTED: 0
+2021-10-07 17:20:25,788 * Watched
+2021-10-07 17:20:25,788 Run with opt: [2]
+2021-10-07 17:20:25,789 ** Registered to ReCode statistics: pts/basis_[2]
+2021-10-07 17:20:46,664 Run finished with DETECTED: 0
+2021-10-07 17:20:46,676 * Watched
+2021-10-07 17:20:46,676 Run with opt: [3]
+2021-10-07 17:20:46,678 ** Registered to ReCode statistics: pts/basis_[3]
+2021-10-07 17:22:12,474 Run finished with DETECTED: 0
+2021-10-07 17:22:12,486 * Watched
+2021-10-07 17:22:12,486 Processing: pts/blake2
+2021-10-07 17:22:13,007 Options: [1]
+2021-10-07 17:22:13,007 Run with opt: [1]
+2021-10-07 17:22:13,008 ** Registered to ReCode statistics: pts/blake2_[1]
+2021-10-07 17:22:19,490 Run finished with DETECTED: 0
+2021-10-07 17:22:19,505 * Watched
+2021-10-07 17:22:19,505 Processing: pts/blosc
+2021-10-07 17:22:20,071 Options: [1]
+2021-10-07 17:22:20,071 Run with opt: [1]
+2021-10-07 17:22:20,072 ** Registered to ReCode statistics: pts/blosc_[1]
+2021-10-07 17:22:39,609 Run finished with DETECTED: 0
+2021-10-07 17:22:39,621 * Watched
+2021-10-07 17:22:39,621 Processing: pts/bork
+2021-10-07 17:22:40,157 Options: [1]
+2021-10-07 17:22:40,157 Run with opt: [1]
+2021-10-07 17:22:40,158 ** Registered to ReCode statistics: pts/bork_[1]
+2021-10-07 17:23:22,214 Run finished with DETECTED: 0
+2021-10-07 17:23:22,226 * Watched
+2021-10-07 17:23:22,226 Processing: pts/botan
+2021-10-07 17:23:22,849 Options: [7]
+2021-10-07 17:23:22,849 Run with opt: [1]
+2021-10-07 17:23:22,850 ** Registered to ReCode statistics: pts/botan_[1]
+2021-10-07 17:24:01,941 Run finished with DETECTED: 0
+2021-10-07 17:24:01,953 * Watched
+2021-10-07 17:24:01,953 46005: botan	2	4	3	0
+2021-10-07 17:24:01,953 Run with opt: [2]
+2021-10-07 17:24:01,955 ** Registered to ReCode statistics: pts/botan_[2]
+2021-10-07 17:24:38,501 Run finished with DETECTED: 0
+2021-10-07 17:24:38,513 * Watched
+2021-10-07 17:24:38,513 46160: botan	2	59	4	0
+2021-10-07 17:24:38,513 Run with opt: [3]
+2021-10-07 17:24:38,514 ** Registered to ReCode statistics: pts/botan_[3]
+2021-10-07 17:25:14,750 Run finished with DETECTED: 0
+2021-10-07 17:25:14,762 * Watched
+2021-10-07 17:25:14,762 46315: botan	5	26093	64	0
+2021-10-07 17:25:14,762 Processing: pts/build-imagemagick
+2021-10-07 17:25:15,391 Options: [1]
+2021-10-07 17:25:15,391 Run with opt: [1]
+2021-10-07 17:25:15,392 ** Registered to ReCode statistics: pts/build-imagemagick_[1]
+2021-10-07 17:26:49,985 Run finished with DETECTED: 0
+2021-10-07 17:26:49,997 * Watched
+2021-10-07 17:26:49,997 Processing: pts/bullet
+2021-10-07 17:26:50,622 Options: [8]
+2021-10-07 17:26:50,622 Run with opt: [1]
+2021-10-07 17:26:50,623 ** Registered to ReCode statistics: pts/bullet_[1]
+2021-10-07 17:27:03,602 Run finished with DETECTED: 0
+2021-10-07 17:27:03,614 * Watched
+2021-10-07 17:27:03,614 Run with opt: [2]
+2021-10-07 17:27:03,615 ** Registered to ReCode statistics: pts/bullet_[2]
+2021-10-07 17:27:17,115 Run finished with DETECTED: 0
+2021-10-07 17:27:17,128 * Watched
+2021-10-07 17:27:17,128 Run with opt: [3]
+2021-10-07 17:27:17,129 ** Registered to ReCode statistics: pts/bullet_[3]
+2021-10-07 17:27:30,221 Run finished with DETECTED: 0
+2021-10-07 17:27:30,233 * Watched
+2021-10-07 17:27:30,234 Processing: pts/chia-vdf
+2021-10-07 17:27:30,764 Options: [3]
+2021-10-07 17:27:30,765 Run with opt: [1]
+2021-10-07 17:27:30,766 ** Registered to ReCode statistics: pts/chia-vdf_[1]
+2021-10-07 17:28:39,039 Run finished with DETECTED: 0
+2021-10-07 17:28:39,051 * Watched
+2021-10-07 17:28:39,051 62599: vdf_bench	1	1	1	0
+2021-10-07 17:28:39,051 Run with opt: [2]
+2021-10-07 17:28:39,053 ** Registered to ReCode statistics: pts/chia-vdf_[2]
+2021-10-07 17:29:25,222 Run finished with DETECTED: 0
+2021-10-07 17:29:25,234 * Watched
+2021-10-07 17:29:25,234 Run with opt: [3]
+2021-10-07 17:29:25,236 ** Registered to ReCode statistics: pts/chia-vdf_[3]
+2021-10-07 17:31:24,930 Run finished with DETECTED: 0
+2021-10-07 17:31:24,942 * Watched
+2021-10-07 17:31:24,942 65219: vdf_bench	1	1	1	0
+2021-10-07 17:31:24,942 Processing: pts/clpeak
+2021-10-07 17:31:25,464 Options: [8]
+2021-10-07 17:31:25,464 Run with opt: [1]
+2021-10-07 17:31:25,465 ** Registered to ReCode statistics: pts/clpeak_[1]
+2021-10-07 17:31:27,205 Run finished with DETECTED: 0
+2021-10-07 17:31:27,217 * Watched
+2021-10-07 17:31:27,217 Run with opt: [2]
+2021-10-07 17:31:27,218 ** Registered to ReCode statistics: pts/clpeak_[2]
+2021-10-07 17:31:28,987 Run finished with DETECTED: 0
+2021-10-07 17:31:28,999 * Watched
+2021-10-07 17:31:28,999 Run with opt: [3]
+2021-10-07 17:31:29,000 ** Registered to ReCode statistics: pts/clpeak_[3]
+2021-10-07 17:31:30,672 Run finished with DETECTED: 0
+2021-10-07 17:31:30,684 * Watched
+2021-10-07 17:31:30,684 Processing: pts/compress-7zip
+2021-10-07 17:31:31,225 Options: [1]
+2021-10-07 17:31:31,225 Run with opt: [1]
+2021-10-07 17:31:31,226 ** Registered to ReCode statistics: pts/compress-7zip_[1]
+2021-10-07 17:32:15,617 Run finished with DETECTED: 0
+2021-10-07 17:32:15,629 * Watched
+2021-10-07 17:32:15,629 Processing: pts/compress-pbzip2
+2021-10-07 17:32:16,146 Options: [1]
+2021-10-07 17:32:16,147 Run with opt: [1]
+2021-10-07 17:32:16,148 ** Registered to ReCode statistics: pts/compress-pbzip2_[1]
+2021-10-07 17:32:33,944 Run finished with DETECTED: 0
+2021-10-07 17:32:33,957 * Watched
+2021-10-07 17:32:33,957 Processing: pts/cpuminer-opt
+2021-10-07 17:32:34,483 Options: [12]
+2021-10-07 17:32:34,483 Run with opt: [1]
+2021-10-07 17:32:34,485 ** Registered to ReCode statistics: pts/cpuminer-opt_[1]
+2021-10-07 17:33:11,426 Run finished with DETECTED: 0
+2021-10-07 17:33:11,438 * Watched
+2021-10-07 17:33:11,438 68910: cpuminer	1	1	1	0
+2021-10-07 17:33:11,438 68906: cpuminer	1	1	1	0
+2021-10-07 17:33:11,438 Run with opt: [2]
+2021-10-07 17:33:11,439 ** Registered to ReCode statistics: pts/cpuminer-opt_[2]
+2021-10-07 17:33:52,493 Run finished with DETECTED: 0
+2021-10-07 17:33:52,505 * Watched
+2021-10-07 17:33:52,505 Run with opt: [3]
+2021-10-07 17:33:52,506 ** Registered to ReCode statistics: pts/cpuminer-opt_[3]
+2021-10-07 17:34:29,456 Run finished with DETECTED: 0
+2021-10-07 17:34:29,468 * Watched
+2021-10-07 17:34:29,468 Processing: pts/crafty
+2021-10-07 17:34:29,992 Options: [1]
+2021-10-07 17:34:29,993 Run with opt: [1]
+2021-10-07 17:34:29,994 ** Registered to ReCode statistics: pts/crafty_[1]
+2021-10-07 17:35:15,024 Run finished with DETECTED: 0
+2021-10-07 17:35:15,036 * Watched
+2021-10-07 17:35:15,036 Processing: pts/dolfyn
+2021-10-07 17:35:15,566 Options: [1]
+2021-10-07 17:35:15,566 Run with opt: [1]
+2021-10-07 17:35:15,568 ** Registered to ReCode statistics: pts/dolfyn_[1]
+2021-10-07 17:35:53,015 Run finished with DETECTED: 0
+2021-10-07 17:35:53,026 * Watched
+2021-10-07 17:35:53,027 Processing: pts/draco
+2021-10-07 17:35:53,548 Options: [3]
+2021-10-07 17:35:53,548 Run with opt: [1]
+2021-10-07 17:35:53,549 ** Registered to ReCode statistics: pts/draco_[1]
+2021-10-07 17:36:15,134 Run finished with DETECTED: 0
+2021-10-07 17:36:15,148 * Watched
+2021-10-07 17:36:15,148 Run with opt: [2]
+2021-10-07 17:36:15,149 ** Registered to ReCode statistics: pts/draco_[2]
+2021-10-07 17:36:32,132 Run finished with DETECTED: 0
+2021-10-07 17:36:32,144 * Watched
+2021-10-07 17:36:32,144 Run with opt: [3]
+2021-10-07 17:36:32,146 ** Registered to ReCode statistics: pts/draco_[3]
+2021-10-07 17:37:14,221 Run finished with DETECTED: 0
+2021-10-07 17:37:14,234 * Watched
+2021-10-07 17:37:14,234 Processing: pts/encode-flac
+2021-10-07 17:37:14,746 Options: [1]
+2021-10-07 17:37:14,746 Run with opt: [1]
+2021-10-07 17:37:14,748 ** Registered to ReCode statistics: pts/encode-flac_[1]
+2021-10-07 17:37:53,342 Run finished with DETECTED: 0
+2021-10-07 17:37:53,374 * Watched
+2021-10-07 17:37:53,375 Processing: pts/encode-mp3
+2021-10-07 17:37:53,969 Options: [1]
+2021-10-07 17:37:53,969 Run with opt: [1]
+2021-10-07 17:37:53,971 ** Registered to ReCode statistics: pts/encode-mp3_[1]
+2021-10-07 17:38:14,021 Run finished with DETECTED: 0
+2021-10-07 17:38:14,034 * Watched
+2021-10-07 17:38:14,034 Processing: pts/etcpak
+2021-10-07 17:38:14,571 Options: [5]
+2021-10-07 17:38:14,571 Run with opt: [1]
+2021-10-07 17:38:14,572 ** Registered to ReCode statistics: pts/etcpak_[1]
+2021-10-07 17:38:45,151 Run finished with DETECTED: 0
+2021-10-07 17:38:45,164 * Watched
+2021-10-07 17:38:45,164 Run with opt: [2]
+2021-10-07 17:38:45,165 ** Registered to ReCode statistics: pts/etcpak_[2]
+2021-10-07 17:39:17,406 Run finished with DETECTED: 0
+2021-10-07 17:39:17,418 * Watched
+2021-10-07 17:39:17,418 Run with opt: [3]
+2021-10-07 17:39:17,420 ** Registered to ReCode statistics: pts/etcpak_[3]
+2021-10-07 17:40:07,381 Run finished with DETECTED: 0
+2021-10-07 17:40:07,393 * Watched
+2021-10-07 17:40:07,393 Processing: pts/ffte
+2021-10-07 17:40:07,922 Options: [1]
+2021-10-07 17:40:07,922 Run with opt: [1]
+2021-10-07 17:40:07,924 ** Registered to ReCode statistics: pts/ffte_[1]
+2021-10-07 17:40:17,099 Run finished with DETECTED: 0
+2021-10-07 17:40:17,132 * Watched
+2021-10-07 17:40:17,132 71953: speed3d	1	1	1	0
+2021-10-07 17:40:17,132 Processing: pts/glibc-bench
+2021-10-07 17:40:17,751 Options: [16]
+2021-10-07 17:40:17,751 Run with opt: [1]
+2021-10-07 17:40:17,753 ** Registered to ReCode statistics: pts/glibc-bench_[1]
+2021-10-07 17:40:34,414 Run finished with DETECTED: 0
+2021-10-07 17:40:34,427 * Watched
+2021-10-07 17:40:34,427 72257: bench-ffsll	3	7463	11	0
+2021-10-07 17:40:34,427 Run with opt: [2]
+2021-10-07 17:40:34,428 ** Registered to ReCode statistics: pts/glibc-bench_[2]
+2021-10-07 17:40:51,002 Run finished with DETECTED: 0
+2021-10-07 17:40:51,015 * Watched
+2021-10-07 17:40:51,015 72413: bench-ffs	1	1	1	0
+2021-10-07 17:40:51,015 Run with opt: [3]
+2021-10-07 17:40:51,016 ** Registered to ReCode statistics: pts/glibc-bench_[3]
+2021-10-07 17:41:07,592 Run finished with DETECTED: 0
+2021-10-07 17:41:07,604 * Watched
+2021-10-07 17:41:07,604 72568: bench-pthread_o	4	14957	13	0
+2021-10-07 17:41:07,604 Processing: pts/go-benchmark
+2021-10-07 17:41:08,123 Options: [5]
+2021-10-07 17:41:08,123 Run with opt: [1]
+2021-10-07 17:41:08,124 ** Registered to ReCode statistics: pts/go-benchmark_[1]
+2021-10-07 17:41:13,824 Run finished with DETECTED: 0
+2021-10-07 17:41:13,837 * Watched
+2021-10-07 17:41:13,837 Run with opt: [2]
+2021-10-07 17:41:13,838 ** Registered to ReCode statistics: pts/go-benchmark_[2]
+2021-10-07 17:41:19,616 Run finished with DETECTED: 0
+2021-10-07 17:41:19,628 * Watched
+2021-10-07 17:41:19,628 Run with opt: [3]
+2021-10-07 17:41:19,630 ** Registered to ReCode statistics: pts/go-benchmark_[3]
+2021-10-07 17:41:25,446 Run finished with DETECTED: 0
+2021-10-07 17:41:25,458 * Watched
+2021-10-07 17:41:25,458 Processing: pts/ipc-benchmark
+2021-10-07 17:41:26,053 Options: [5, 7]
+2021-10-07 17:41:26,053 Run with opt: [1, 1]
+2021-10-07 17:41:26,055 ** Registered to ReCode statistics: pts/ipc-benchmark_[1, 1]
+2021-10-07 17:41:36,873 Run finished with DETECTED: 0
+2021-10-07 17:41:36,885 * Watched
+2021-10-07 17:41:36,885 Run with opt: [1, 2]
+2021-10-07 17:41:36,887 ** Registered to ReCode statistics: pts/ipc-benchmark_[1, 2]
+2021-10-07 17:41:47,777 Run finished with DETECTED: 0
+2021-10-07 17:41:47,789 * Watched
+2021-10-07 17:41:47,789 Run with opt: [1, 3]
+2021-10-07 17:41:47,790 ** Registered to ReCode statistics: pts/ipc-benchmark_[1, 3]
+2021-10-07 17:42:00,226 Run finished with DETECTED: 0
+2021-10-07 17:42:00,238 * Watched
+2021-10-07 17:42:00,238 Processing: pts/java-scimark2
+2021-10-07 17:42:00,769 Options: [7]
+2021-10-07 17:42:00,769 Run with opt: [1]
+2021-10-07 17:42:00,771 ** Registered to ReCode statistics: pts/java-scimark2_[1]
+2021-10-07 17:42:42,114 Run finished with DETECTED: 0
+2021-10-07 17:42:42,146 * Watched
+2021-10-07 17:42:42,146 74020: java	2	3745	3	0
+2021-10-07 17:42:42,146 Run with opt: [2]
+2021-10-07 17:42:42,148 ** Registered to ReCode statistics: pts/java-scimark2_[2]
+2021-10-07 17:43:23,378 Run finished with DETECTED: 0
+2021-10-07 17:43:23,390 * Watched
+2021-10-07 17:43:23,390 Run with opt: [3]
+2021-10-07 17:43:23,392 ** Registered to ReCode statistics: pts/java-scimark2_[3]
+2021-10-07 17:44:04,542 Run finished with DETECTED: 0
+2021-10-07 17:44:04,554 * Watched
+2021-10-07 17:44:04,554 74392: java	1	1	1	0
+2021-10-07 17:44:04,554 Processing: pts/john-the-ripper
+2021-10-07 17:44:05,085 Options: [3]
+2021-10-07 17:44:05,086 Run with opt: [1]
+2021-10-07 17:44:05,087 ** Registered to ReCode statistics: pts/john-the-ripper_[1]
+2021-10-07 17:45:11,511 Run finished with DETECTED: 0
+2021-10-07 17:45:11,524 * Watched
+2021-10-07 17:45:11,524 Run with opt: [2]
+2021-10-07 17:45:11,525 ** Registered to ReCode statistics: pts/john-the-ripper_[2]
+2021-10-07 17:45:47,868 Run finished with DETECTED: 0
+2021-10-07 17:45:47,880 * Watched
+2021-10-07 17:45:47,880 74852: john	2	67	7	0
+2021-10-07 17:45:47,880 74855: john	2	9	4	0
+2021-10-07 17:45:47,881 74857: john	2	8	4	0
+2021-10-07 17:45:47,881 74853: john	2	7	4	0
+2021-10-07 17:45:47,881 74856: john	2	7	3	0
+2021-10-07 17:45:47,881 74854: john	2	7	4	0
+2021-10-07 17:45:47,881 Run with opt: [3]
+2021-10-07 17:45:47,882 ** Registered to ReCode statistics: pts/john-the-ripper_[3]
+2021-10-07 17:47:34,876 Run finished with DETECTED: 0
+2021-10-07 17:47:34,888 * Watched
+2021-10-07 17:47:34,888 75015: john	4	6032	28	0
+2021-10-07 17:47:34,888 75016: john	6	69311	117	0
+2021-10-07 17:47:34,888 75017: john	2	5949	8	0
+2021-10-07 17:47:34,888 75013: john	3	5966	22	0
+2021-10-07 17:47:34,888 75014: john	5	5991	30	0
+2021-10-07 17:47:34,888 75018: john	2	76	3	0
+2021-10-07 17:47:34,888 Processing: pts/jpegxl-decode
+2021-10-07 17:47:45,447 Options: [3]
+2021-10-07 17:47:45,447 Run with opt: [1]
+2021-10-07 17:47:45,448 ** Registered to ReCode statistics: pts/jpegxl-decode_[1]
+2021-10-07 17:47:51,263 Run finished with DETECTED: 0
+2021-10-07 17:47:51,276 * Watched
+2021-10-07 17:47:51,276 Run with opt: [2]
+2021-10-07 17:47:51,278 ** Registered to ReCode statistics: pts/jpegxl-decode_[2]
+2021-10-07 17:47:57,020 Run finished with DETECTED: 0
+2021-10-07 17:47:57,032 * Watched
+2021-10-07 17:47:57,032 Run with opt: [3]
+2021-10-07 17:47:57,033 ** Registered to ReCode statistics: pts/jpegxl-decode_[3]
+2021-10-07 17:48:12,895 Run finished with DETECTED: 0
+2021-10-07 17:48:12,907 * Watched
+2021-10-07 17:48:12,907 Processing: pts/liquid-dsp
+2021-10-07 17:48:13,536 Options: [5]
+2021-10-07 17:48:13,537 Run with opt: [1]
+2021-10-07 17:48:13,538 ** Registered to ReCode statistics: pts/liquid-dsp_[1]
+2021-10-07 17:48:39,696 Run finished with DETECTED: 0
+2021-10-07 17:48:39,708 * Watched
+2021-10-07 17:48:39,708 75882: benchmark_threa	4	40996	64	0
+2021-10-07 17:48:39,708 Run with opt: [2]
+2021-10-07 17:48:39,710 ** Registered to ReCode statistics: pts/liquid-dsp_[2]
+2021-10-07 17:49:05,848 Run finished with DETECTED: 0
+2021-10-07 17:49:05,862 * Watched
+2021-10-07 17:49:05,862 Run with opt: [3]
+2021-10-07 17:49:05,864 ** Registered to ReCode statistics: pts/liquid-dsp_[3]
+2021-10-07 17:49:32,125 Run finished with DETECTED: 0
+2021-10-07 17:49:32,138 * Watched
+2021-10-07 17:49:32,138 76199: benchmark_threa	1	1	1	0
+2021-10-07 17:49:32,138 Processing: pts/luajit
+2021-10-07 17:49:32,602 Options: [7]
+2021-10-07 17:49:32,602 Run with opt: [1]
+2021-10-07 17:49:32,603 ** Registered to ReCode statistics: pts/luajit_[1]
+2021-10-07 17:50:06,840 Run finished with DETECTED: 0
+2021-10-07 17:50:06,852 * Watched
+2021-10-07 17:50:06,852 Run with opt: [2]
+2021-10-07 17:50:06,854 ** Registered to ReCode statistics: pts/luajit_[2]
+2021-10-07 17:50:42,068 Run finished with DETECTED: 0
+2021-10-07 17:50:42,081 * Watched
+2021-10-07 17:50:42,081 Run with opt: [3]
+2021-10-07 17:50:42,082 ** Registered to ReCode statistics: pts/luajit_[3]
+2021-10-07 17:51:17,190 Run finished with DETECTED: 0
+2021-10-07 17:51:17,202 * Watched
+2021-10-07 17:51:17,202 76830: luajit	1	1	1	0
+2021-10-07 17:51:17,202 Processing: pts/lulesh
+2021-10-07 17:51:17,749 Options: [1]
+2021-10-07 17:51:17,750 Run with opt: [1]
+2021-10-07 17:51:17,751 ** Registered to ReCode statistics: pts/lulesh_[1]
+2021-10-07 17:51:33,165 Run finished with DETECTED: 0
+2021-10-07 17:51:33,177 * Watched
+2021-10-07 17:51:33,177 Processing: pts/lulesh-cl
+2021-10-07 17:51:33,803 Options: [1]
+2021-10-07 17:51:33,803 Run with opt: [1]
+2021-10-07 17:51:33,804 ** Registered to ReCode statistics: pts/lulesh-cl_[1]
+2021-10-07 17:51:39,720 Run finished with DETECTED: 0
+2021-10-07 17:51:39,732 * Watched
+2021-10-07 17:51:39,733 Processing: pts/lzbench
+2021-10-07 17:51:40,258 Options: [8]
+2021-10-07 17:51:40,258 Run with opt: [1]
+2021-10-07 17:51:40,260 ** Registered to ReCode statistics: pts/lzbench_[1]
+2021-10-07 17:52:13,210 Run finished with DETECTED: 0
+2021-10-07 17:52:13,225 * Watched
+2021-10-07 17:52:13,225 Run with opt: [2]
+2021-10-07 17:52:13,226 ** Registered to ReCode statistics: pts/lzbench_[2]
+2021-10-07 17:52:48,224 Run finished with DETECTED: 0
+2021-10-07 17:52:48,239 * Watched
+2021-10-07 17:52:48,239 Run with opt: [3]
+2021-10-07 17:52:48,241 ** Registered to ReCode statistics: pts/lzbench_[3]
+2021-10-07 17:53:21,615 Run finished with DETECTED: 0
+2021-10-07 17:53:21,629 * Watched
+2021-10-07 17:53:21,630 Processing: pts/mandelgpu
+2021-10-07 17:53:22,244 Options: [4]
+2021-10-07 17:53:22,245 Run with opt: [1]
+2021-10-07 17:53:22,246 ** Registered to ReCode statistics: pts/mandelgpu_[1]
+2021-10-07 17:53:23,992 Run finished with DETECTED: 0
+2021-10-07 17:53:24,004 * Watched
+2021-10-07 17:53:24,004 Run with opt: [2]
+2021-10-07 17:53:24,006 ** Registered to ReCode statistics: pts/mandelgpu_[2]
+2021-10-07 17:53:25,794 Run finished with DETECTED: 0
+2021-10-07 17:53:25,806 * Watched
+2021-10-07 17:53:25,806 Run with opt: [3]
+2021-10-07 17:53:25,807 ** Registered to ReCode statistics: pts/mandelgpu_[3]
+2021-10-07 17:53:27,596 Run finished with DETECTED: 0
+2021-10-07 17:53:27,611 * Watched
+2021-10-07 17:53:27,611 Processing: pts/memtier-benchmark
+2021-10-07 17:53:28,393 Options: [1]
+2021-10-07 17:53:28,393 Run with opt: [1]
+2021-10-07 17:53:28,394 ** Registered to ReCode statistics: pts/memtier-benchmark_[1]
+2021-10-07 17:53:45,338 Run finished with DETECTED: 0
+2021-10-07 17:53:45,350 * Watched
+2021-10-07 17:53:45,350 Processing: pts/mencoder
+2021-10-07 17:53:45,919 Options: [1]
+2021-10-07 17:53:45,919 Run with opt: [1]
+2021-10-07 17:53:45,921 ** Registered to ReCode statistics: pts/mencoder_[1]
+2021-10-07 17:54:18,952 Run finished with DETECTED: 0
+2021-10-07 17:54:18,965 * Watched
+2021-10-07 17:54:18,965 Processing: pts/multichase
+2021-10-07 17:54:19,499 Options: [6]
+2021-10-07 17:54:19,499 Run with opt: [1]
+2021-10-07 17:54:19,500 ** Registered to ReCode statistics: pts/multichase_[1]
+2021-10-07 17:54:28,543 Run finished with DETECTED: 0
+2021-10-07 17:54:28,555 * Watched
+2021-10-07 17:54:28,556 Run with opt: [2]
+2021-10-07 17:54:28,557 ** Registered to ReCode statistics: pts/multichase_[2]
+2021-10-07 17:54:37,413 Run finished with DETECTED: 0
+2021-10-07 17:54:37,428 * Watched
+2021-10-07 17:54:37,428 Run with opt: [3]
+2021-10-07 17:54:37,429 ** Registered to ReCode statistics: pts/multichase_[3]
+2021-10-07 17:54:46,967 Run finished with DETECTED: 0
+2021-10-07 17:54:46,979 * Watched
+2021-10-07 17:54:46,979 Processing: pts/mutex
+2021-10-07 17:54:47,755 Options: [9]
+2021-10-07 17:54:47,755 Run with opt: [1]
+2021-10-07 17:54:47,757 ** Registered to ReCode statistics: pts/mutex_[1]
+2021-10-07 17:55:31,555 Run finished with DETECTED: 0
+2021-10-07 17:55:31,573 * Watched
+2021-10-07 17:55:31,573 Run with opt: [2]
+2021-10-07 17:55:31,575 ** Registered to ReCode statistics: pts/mutex_[2]
+2021-10-07 17:56:30,436 Run finished with DETECTED: 0
+2021-10-07 17:56:30,448 * Watched
+2021-10-07 17:56:30,448 Run with opt: [3]
+2021-10-07 17:56:30,449 ** Registered to ReCode statistics: pts/mutex_[3]
+2021-10-07 17:58:12,326 Run finished with DETECTED: 0
+2021-10-07 17:58:12,338 * Watched
+2021-10-07 17:58:12,338 Processing: pts/n-queens
+2021-10-07 17:58:12,823 Options: [1]
+2021-10-07 17:58:12,823 Run with opt: [1]
+2021-10-07 17:58:12,824 ** Registered to ReCode statistics: pts/n-queens_[1]
+2021-10-07 17:59:09,979 Run finished with DETECTED: 0
+2021-10-07 17:59:09,991 * Watched
+2021-10-07 17:59:09,991 Processing: pts/neatbench
+2021-10-07 17:59:10,523 Options: [4]
+2021-10-07 17:59:10,523 Run with opt: [1]
+2021-10-07 17:59:10,524 ** Registered to ReCode statistics: pts/neatbench_[1]
+2021-10-07 17:59:22,121 Run finished with DETECTED: 0
+2021-10-07 17:59:22,134 * Watched
+2021-10-07 17:59:22,134 Run with opt: [2]
+2021-10-07 17:59:22,135 ** Registered to ReCode statistics: pts/neatbench_[2]
+2021-10-07 17:59:28,477 Run finished with DETECTED: 0
+2021-10-07 17:59:28,489 * Watched
+2021-10-07 17:59:28,489 Run with opt: [3]
+2021-10-07 17:59:28,491 ** Registered to ReCode statistics: pts/neatbench_[3]
+2021-10-07 17:59:39,993 Run finished with DETECTED: 0
+2021-10-07 17:59:40,005 * Watched
+2021-10-07 17:59:40,005 Processing: pts/nettle
+2021-10-07 17:59:40,625 Options: [5]
+2021-10-07 17:59:40,625 Run with opt: [1]
+2021-10-07 17:59:40,626 ** Registered to ReCode statistics: pts/nettle_[1]
+2021-10-07 18:16:15,171 Run finished with DETECTED: 0
+2021-10-07 18:16:15,184 * Watched
+2021-10-07 18:16:15,184 83206: nettle-benchmar	6	1111568	1703	0
+2021-10-07 18:16:15,184 Thread: Socket	83303	1	1	1	0
+2021-10-07 18:16:15,184 Run with opt: [2]
+2021-10-07 18:16:15,185 ** Registered to ReCode statistics: pts/nettle_[2]
+2021-10-07 18:18:37,879 Run finished with DETECTED: 0
+2021-10-07 18:18:37,891 * Watched
+2021-10-07 18:18:37,891 85957: nettle-benchmar	1	1	1	0
+2021-10-07 18:18:37,891 Run with opt: [3]
+2021-10-07 18:18:37,893 ** Registered to ReCode statistics: pts/nettle_[3]
+2021-10-07 18:20:08,485 Run finished with DETECTED: 0
+2021-10-07 18:20:08,499 * Watched
+2021-10-07 18:20:08,499 86129: nettle-benchmar	2	41095	6	0
+2021-10-07 18:20:08,499 Processing: pts/node-express-loadtest
+2021-10-07 18:20:09,039 Options: [1]
+2021-10-07 18:20:09,039 Run with opt: [1]
+2021-10-07 18:20:09,040 ** Registered to ReCode statistics: pts/node-express-loadtest_[1]
+2021-10-07 18:20:40,852 Run finished with DETECTED: 0
+2021-10-07 18:20:40,864 * Watched
+2021-10-07 18:20:40,864 Processing: pts/node-octane
+2021-10-07 18:20:41,399 Options: [1]
+2021-10-07 18:20:41,399 Run with opt: [1]
+2021-10-07 18:20:41,400 ** Registered to ReCode statistics: pts/node-octane_[1]
+2021-10-07 18:21:22,125 Run finished with DETECTED: 0
+2021-10-07 18:21:22,146 * Watched
+2021-10-07 18:21:22,146 86871: code	1	1	1	0
+2021-10-07 18:21:22,146 86784: code	1	1	1	0
+2021-10-07 18:21:22,146 Processing: pts/novabench
+2021-10-07 18:21:22,770 Options: [4]
+2021-10-07 18:21:22,770 Run with opt: [1]
+2021-10-07 18:21:22,771 ** Registered to ReCode statistics: pts/novabench_[1]
+2021-10-07 18:21:28,611 Run finished with DETECTED: 0
+2021-10-07 18:21:28,624 * Watched
+2021-10-07 18:21:28,624 Run with opt: [2]
+2021-10-07 18:21:28,625 ** Registered to ReCode statistics: pts/novabench_[2]
+2021-10-07 18:21:34,438 Run finished with DETECTED: 0
+2021-10-07 18:21:34,449 * Watched
+2021-10-07 18:21:34,449 Run with opt: [3]
+2021-10-07 18:21:34,451 ** Registered to ReCode statistics: pts/novabench_[3]
+2021-10-07 18:21:40,191 Run finished with DETECTED: 0
+2021-10-07 18:21:40,204 * Watched
+2021-10-07 18:21:40,204 Processing: pts/onednn
+2021-10-07 18:21:50,844 Options: [9, 4, 4]
+2021-10-07 18:21:50,844 Run with opt: [1, 1, 1]
+2021-10-07 18:21:50,846 ** Registered to ReCode statistics: pts/onednn_[1, 1, 1]
+2021-10-07 18:22:03,596 Run finished with DETECTED: 0
+2021-10-07 18:22:03,610 * Watched
+2021-10-07 18:22:03,610 Run with opt: [1, 1, 2]
+2021-10-07 18:22:03,612 ** Registered to ReCode statistics: pts/onednn_[1, 1, 2]
+2021-10-07 18:22:16,190 Run finished with DETECTED: 0
+2021-10-07 18:22:16,203 * Watched
+2021-10-07 18:22:16,203 Run with opt: [1, 1, 3]
+2021-10-07 18:22:16,204 ** Registered to ReCode statistics: pts/onednn_[1, 1, 3]
+2021-10-07 18:22:28,787 Run finished with DETECTED: 0
+2021-10-07 18:22:28,799 * Watched
+2021-10-07 18:22:28,799 Processing: pts/optcarrot
+2021-10-07 18:22:29,346 Options: [1]
+2021-10-07 18:22:29,346 Run with opt: [1]
+2021-10-07 18:22:29,348 ** Registered to ReCode statistics: pts/optcarrot_[1]
+2021-10-07 18:22:38,208 Run finished with DETECTED: 0
+2021-10-07 18:22:38,223 * Watched
+2021-10-07 18:22:38,223 88479: pool-org.gnome.	1	1	1	0
+2021-10-07 18:22:38,224 Processing: pts/php
+2021-10-07 18:22:38,866 Options: [3]
+2021-10-07 18:22:38,866 Run with opt: [1]
+2021-10-07 18:22:38,867 ** Registered to ReCode statistics: pts/php_[1]
+2021-10-07 18:22:50,257 Run finished with DETECTED: 0
+2021-10-07 18:22:50,270 * Watched
+2021-10-07 18:22:50,270 Run with opt: [2]
+2021-10-07 18:22:50,271 ** Registered to ReCode statistics: pts/php_[2]
+2021-10-07 18:22:58,705 Run finished with DETECTED: 0
+2021-10-07 18:22:58,717 * Watched
+2021-10-07 18:22:58,717 Run with opt: [3]
+2021-10-07 18:22:58,718 ** Registered to ReCode statistics: pts/php_[3]
+2021-10-07 18:23:17,733 Run finished with DETECTED: 0
+2021-10-07 18:23:17,748 * Watched
+2021-10-07 18:23:17,748 Processing: pts/pjsip
+2021-10-07 18:23:18,265 Options: [4]
+2021-10-07 18:23:18,265 Run with opt: [1]
+2021-10-07 18:23:18,267 ** Registered to ReCode statistics: pts/pjsip_[1]
+2021-10-07 18:24:28,501 Run finished with DETECTED: 0
+2021-10-07 18:24:28,513 * Watched
+2021-10-07 18:24:28,513 Run with opt: [2]
+2021-10-07 18:24:28,514 ** Registered to ReCode statistics: pts/pjsip_[2]
+2021-10-07 18:25:36,903 Run finished with DETECTED: 0
+2021-10-07 18:25:36,935 * Watched
+2021-10-07 18:25:36,935 Run with opt: [3]
+2021-10-07 18:25:36,938 ** Registered to ReCode statistics: pts/pjsip_[3]
+2021-10-07 18:26:48,407 Run finished with DETECTED: 0
+2021-10-07 18:26:48,422 * Watched
+2021-10-07 18:26:48,422 89732: cpptools-srv	1	1	1	0
+2021-10-07 18:26:48,422 Processing: pts/polybench-c
+2021-10-07 18:26:49,022 Options: [4]
+2021-10-07 18:26:49,022 Run with opt: [1]
+2021-10-07 18:26:49,023 ** Registered to ReCode statistics: pts/polybench-c_[1]
+2021-10-07 18:26:59,817 Run finished with DETECTED: 0
+2021-10-07 18:26:59,833 * Watched
+2021-10-07 18:26:59,833 Run with opt: [2]
+2021-10-07 18:26:59,834 ** Registered to ReCode statistics: pts/polybench-c_[2]
+2021-10-07 18:27:14,793 Run finished with DETECTED: 0
+2021-10-07 18:27:14,808 * Watched
+2021-10-07 18:27:14,808 Run with opt: [3]
+2021-10-07 18:27:14,809 ** Registered to ReCode statistics: pts/polybench-c_[3]
+2021-10-07 18:27:29,874 Run finished with DETECTED: 0
+2021-10-07 18:27:29,886 * Watched
+2021-10-07 18:27:29,886 Processing: pts/qmcpack
+2021-10-07 18:27:30,475 Options: [1]
+2021-10-07 18:27:30,476 Run with opt: [1]
+2021-10-07 18:27:30,477 ** Registered to ReCode statistics: pts/qmcpack_[1]
+2021-10-07 18:28:28,830 Run finished with DETECTED: 0
+2021-10-07 18:28:28,842 * Watched
+2021-10-07 18:28:28,842 91392: qmcpack	7	49110	135	0
+2021-10-07 18:28:28,842 91391: qmcpack	7	21224	89	0
+2021-10-07 18:28:28,842 91394: qmcpack	8	97489	294	0
+2021-10-07 18:28:28,842 91395: qmcpack	8	46174	129	0
+2021-10-07 18:28:28,842 91393: qmcpack	8	49650	207	0
+2021-10-07 18:28:28,842 91390: qmcpack	9	23704	171	0
+2021-10-07 18:28:28,842 Processing: pts/quantlib
+2021-10-07 18:28:29,373 Options: [1]
+2021-10-07 18:28:29,373 Run with opt: [1]
+2021-10-07 18:28:29,374 ** Registered to ReCode statistics: pts/quantlib_[1]
+2021-10-07 18:29:24,741 Run finished with DETECTED: 0
+2021-10-07 18:29:24,754 * Watched
+2021-10-07 18:29:24,754 Processing: pts/rays1bench
+2021-10-07 18:29:25,286 Options: [1]
+2021-10-07 18:29:25,286 Run with opt: [1]
+2021-10-07 18:29:25,288 ** Registered to ReCode statistics: pts/rays1bench_[1]
+2021-10-07 18:30:14,748 Run finished with DETECTED: 0
+2021-10-07 18:30:14,761 * Watched
+2021-10-07 18:30:14,761 92066: a.out	1	1	1	0
+2021-10-07 18:30:14,761 92067: a.out	1	1	1	0
+2021-10-07 18:30:14,761 92065: a.out	1	1	1	0
+2021-10-07 18:30:14,761 92063: a.out	1	1	1	0
+2021-10-07 18:30:14,761 92064: a.out	1	1	1	0
+2021-10-07 18:30:14,761 92068: a.out	2	1481	3	0
+2021-10-07 18:30:14,761 92090: a.out	1	1	1	0
+2021-10-07 18:30:14,762 92088: a.out	1	1	1	0
+2021-10-07 18:30:14,762 Processing: pts/redis
+2021-10-07 18:30:15,357 Options: [6]
+2021-10-07 18:30:15,357 Run with opt: [1]
+2021-10-07 18:30:15,358 ** Registered to ReCode statistics: pts/redis_[1]
+2021-10-07 18:30:38,985 Run finished with DETECTED: 0
+2021-10-07 18:30:38,997 * Watched
+2021-10-07 18:30:38,998 Run with opt: [2]
+2021-10-07 18:30:38,999 ** Registered to ReCode statistics: pts/redis_[2]
+2021-10-07 18:31:01,003 Run finished with DETECTED: 0
+2021-10-07 18:31:01,018 * Watched
+2021-10-07 18:31:01,018 Run with opt: [3]
+2021-10-07 18:31:01,020 ** Registered to ReCode statistics: pts/redis_[3]
+2021-10-07 18:31:26,087 Run finished with DETECTED: 0
+2021-10-07 18:31:26,099 * Watched
+2021-10-07 18:31:26,099 Processing: pts/rnnoise
+2021-10-07 18:31:26,628 Options: [1]
+2021-10-07 18:31:26,628 Run with opt: [1]
+2021-10-07 18:31:26,629 ** Registered to ReCode statistics: pts/rnnoise_[1]
+2021-10-07 18:32:13,910 Run finished with DETECTED: 0
+2021-10-07 18:32:13,922 * Watched
+2021-10-07 18:32:13,922 Processing: pts/scikit-learn
+2021-10-07 18:32:14,398 Options: [1]
+2021-10-07 18:32:14,398 Run with opt: [1]
+2021-10-07 18:32:14,399 ** Registered to ReCode statistics: pts/scikit-learn_[1]
+2021-10-07 18:32:35,248 Run finished with DETECTED: 0
+2021-10-07 18:32:35,260 * Watched
+2021-10-07 18:32:35,260 Processing: pts/scimark2
+2021-10-07 18:32:35,857 Options: [7]
+2021-10-07 18:32:35,857 Run with opt: [1]
+2021-10-07 18:32:35,858 ** Registered to ReCode statistics: pts/scimark2_[1]
+2021-10-07 18:33:05,213 Run finished with DETECTED: 0
+2021-10-07 18:33:05,226 * Watched
+2021-10-07 18:33:05,227 Run with opt: [2]
+2021-10-07 18:33:05,228 ** Registered to ReCode statistics: pts/scimark2_[2]
+2021-10-07 18:33:34,499 Run finished with DETECTED: 0
+2021-10-07 18:33:34,511 * Watched
+2021-10-07 18:33:34,511 Run with opt: [3]
+2021-10-07 18:33:34,513 ** Registered to ReCode statistics: pts/scimark2_[3]
+2021-10-07 18:34:03,889 Run finished with DETECTED: 0
+2021-10-07 18:34:03,901 * Watched
+2021-10-07 18:34:03,901 94015: scimark2	1	1	1	0
+2021-10-07 18:34:03,901 Processing: pts/simdjson
+2021-10-07 18:34:46,288 Options: [5]
+2021-10-07 18:34:46,288 Run with opt: [1]
+2021-10-07 18:34:46,289 ** Registered to ReCode statistics: pts/simdjson_[1]
+2021-10-07 18:36:17,222 Run finished with DETECTED: 0
+2021-10-07 18:36:17,250 * Watched
+2021-10-07 18:36:17,250 Run with opt: [2]
+2021-10-07 18:36:17,252 ** Registered to ReCode statistics: pts/simdjson_[2]
+2021-10-07 18:37:19,866 Run finished with DETECTED: 0
+2021-10-07 18:37:19,878 * Watched
+2021-10-07 18:37:19,878 Run with opt: [3]
+2021-10-07 18:37:19,879 ** Registered to ReCode statistics: pts/simdjson_[3]
+2021-10-07 18:38:28,695 Run finished with DETECTED: 0
+2021-10-07 18:38:28,708 * Watched
+2021-10-07 18:38:28,708 Processing: pts/smallpt-gpu
+2021-10-07 18:38:29,294 Options: [3, 4]
+2021-10-07 18:38:29,294 Run with opt: [1, 1]
+2021-10-07 18:38:29,297 ** Registered to ReCode statistics: pts/smallpt-gpu_[1, 1]
+2021-10-07 18:38:31,016 Run finished with DETECTED: 0
+2021-10-07 18:38:31,031 * Watched
+2021-10-07 18:38:31,031 Run with opt: [1, 2]
+2021-10-07 18:38:31,032 ** Registered to ReCode statistics: pts/smallpt-gpu_[1, 2]
+2021-10-07 18:38:32,743 Run finished with DETECTED: 0
+2021-10-07 18:38:32,758 * Watched
+2021-10-07 18:38:32,758 Run with opt: [1, 3]
+2021-10-07 18:38:32,760 ** Registered to ReCode statistics: pts/smallpt-gpu_[1, 3]
+2021-10-07 18:38:34,481 Run finished with DETECTED: 0
+2021-10-07 18:38:34,494 * Watched
+2021-10-07 18:38:34,494 Processing: pts/smhasher
+2021-10-07 18:38:35,080 Options: [7]
+2021-10-07 18:38:35,081 Run with opt: [1]
+2021-10-07 18:38:35,082 ** Registered to ReCode statistics: pts/smhasher_[1]
+2021-10-07 18:38:56,247 Run finished with DETECTED: 0
+2021-10-07 18:38:56,272 * Watched
+2021-10-07 18:38:56,272 Run with opt: [2]
+2021-10-07 18:38:56,274 ** Registered to ReCode statistics: pts/smhasher_[2]
+2021-10-07 18:39:20,157 Run finished with DETECTED: 0
+2021-10-07 18:39:20,171 * Watched
+2021-10-07 18:39:20,172 95911: SMHasher	2	27762	52	0
+2021-10-07 18:39:20,172 Run with opt: [3]
+2021-10-07 18:39:20,173 ** Registered to ReCode statistics: pts/smhasher_[3]
+2021-10-07 18:39:47,239 Run finished with DETECTED: 0
+2021-10-07 18:39:47,254 * Watched
+2021-10-07 18:39:47,254 96120: SMHasher	8	27114	1127	0
+2021-10-07 18:39:47,254 Worker: DOM	83670	1	1	1	0
+2021-10-07 18:39:47,254 Processing: pts/srsran
+2021-10-07 18:39:47,794 Options: [8]
+2021-10-07 18:39:47,795 Run with opt: [1]
+2021-10-07 18:39:47,796 ** Registered to ReCode statistics: pts/srsran_[1]
+2021-10-07 18:40:54,417 Run finished with DETECTED: 0
+2021-10-07 18:40:54,429 * Watched
+2021-10-07 18:40:54,429 96555: phy_dl_test	2	52	3	0
+2021-10-07 18:40:54,429 Run with opt: [2]
+2021-10-07 18:40:54,431 ** Registered to ReCode statistics: pts/srsran_[2]
+2021-10-07 18:42:03,026 Run finished with DETECTED: 0
+2021-10-07 18:42:03,038 * Watched
+2021-10-07 18:42:03,038 Run with opt: [3]
+2021-10-07 18:42:03,039 ** Registered to ReCode statistics: pts/srsran_[3]
+2021-10-07 18:43:51,264 Run finished with DETECTED: 0
+2021-10-07 18:43:51,277 * Watched
+2021-10-07 18:43:51,277 Processing: pts/stress-ng
+2021-10-07 18:43:51,835 Options: [22]
+2021-10-07 18:43:51,835 Run with opt: [1]
+2021-10-07 18:43:51,837 ** Registered to ReCode statistics: pts/stress-ng_[1]
+2021-10-07 18:44:28,128 Run finished with DETECTED: 0
+2021-10-07 18:44:28,140 * Watched
+2021-10-07 18:44:28,140 97382: stress-ng	1	1	1	0
+2021-10-07 18:44:28,140 97378: stress-ng	1	1	1	0
+2021-10-07 18:44:28,140 Run with opt: [2]
+2021-10-07 18:44:28,141 ** Registered to ReCode statistics: pts/stress-ng_[2]
+2021-10-07 18:45:04,282 Run finished with DETECTED: 0
+2021-10-07 18:45:04,314 * Watched
+2021-10-07 18:45:04,314 97548: stress-ng	1	1	1	0
+2021-10-07 18:45:04,314 97547: stress-ng	1	1	1	0
+2021-10-07 18:45:04,314 97546: stress-ng	1	1	1	0
+2021-10-07 18:45:04,314 97549: stress-ng	1	1	1	0
+2021-10-07 18:45:04,315 Run with opt: [3]
+2021-10-07 18:45:04,317 ** Registered to ReCode statistics: pts/stress-ng_[3]
+2021-10-07 18:45:40,532 Run finished with DETECTED: 0
+2021-10-07 18:45:40,547 * Watched
+2021-10-07 18:45:40,547 Processing: pts/sudokut
+2021-10-07 18:45:41,084 Options: [1]
+2021-10-07 18:45:41,084 Run with opt: [1]
+2021-10-07 18:45:41,086 ** Registered to ReCode statistics: pts/sudokut_[1]
+2021-10-07 18:46:04,450 Run finished with DETECTED: 0
+2021-10-07 18:46:04,483 * Watched
+2021-10-07 18:46:04,484 Processing: pts/sunflow
+2021-10-07 18:46:05,032 Options: [1]
+2021-10-07 18:46:05,033 Run with opt: [1]
+2021-10-07 18:46:05,034 ** Registered to ReCode statistics: pts/sunflow_[1]
+2021-10-07 18:46:40,028 Run finished with DETECTED: 0
+2021-10-07 18:46:40,043 * Watched
+2021-10-07 18:46:40,043 Processing: pts/synthmark
+2021-10-07 18:46:40,645 Options: [1]
+2021-10-07 18:46:40,645 Run with opt: [1]
+2021-10-07 18:46:40,646 ** Registered to ReCode statistics: pts/synthmark_[1]
+2021-10-07 18:47:17,096 Run finished with DETECTED: 0
+2021-10-07 18:47:17,126 * Watched
+2021-10-07 18:47:17,126 Processing: pts/system-decompress-bzip2
+2021-10-07 18:47:17,862 Options: [1]
+2021-10-07 18:47:17,862 Run with opt: [1]
+2021-10-07 18:47:17,863 ** Registered to ReCode statistics: pts/system-decompress-bzip2_[1]
+2021-10-07 18:47:40,029 Run finished with DETECTED: 0
+2021-10-07 18:47:40,042 * Watched
+2021-10-07 18:47:40,042 Processing: pts/system-decompress-xz
+2021-10-07 18:47:40,689 Options: [1]
+2021-10-07 18:47:40,689 Run with opt: [1]
+2021-10-07 18:47:40,691 ** Registered to ReCode statistics: pts/system-decompress-xz_[1]
+2021-10-07 18:47:52,373 Run finished with DETECTED: 0
+2021-10-07 18:47:52,385 * Watched
+2021-10-07 18:47:52,385 Processing: pts/tjbench
+2021-10-07 18:47:52,966 Options: [1]
+2021-10-07 18:47:52,966 Run with opt: [1]
+2021-10-07 18:47:52,967 ** Registered to ReCode statistics: pts/tjbench_[1]
+2021-10-07 18:48:24,366 Run finished with DETECTED: 0
+2021-10-07 18:48:24,386 * Watched
+2021-10-07 18:48:24,386 Processing: pts/tscp
+2021-10-07 18:48:25,011 Options: [1]
+2021-10-07 18:48:25,011 Run with opt: [1]
+2021-10-07 18:48:25,012 ** Registered to ReCode statistics: pts/tscp_[1]
+2021-10-07 18:48:32,821 Run finished with DETECTED: 0
+2021-10-07 18:48:32,852 * Watched
+2021-10-07 18:48:32,852 Processing: pts/tungsten
+2021-10-07 18:48:33,415 Options: [5]
+2021-10-07 18:48:33,415 Run with opt: [1]
+2021-10-07 18:48:33,416 ** Registered to ReCode statistics: pts/tungsten_[1]
+2021-10-07 18:50:05,442 Run finished with DETECTED: 0
+2021-10-07 18:50:05,455 * Watched
+2021-10-07 18:50:05,455 Run with opt: [2]
+2021-10-07 18:50:05,456 ** Registered to ReCode statistics: pts/tungsten_[2]
+2021-10-07 18:51:11,591 Run finished with DETECTED: 0
+2021-10-07 18:51:11,606 * Watched
+2021-10-07 18:51:11,606 Run with opt: [3]
+2021-10-07 18:51:11,608 ** Registered to ReCode statistics: pts/tungsten_[3]
+2021-10-07 18:51:42,618 Run finished with DETECTED: 0
+2021-10-07 18:51:42,631 * Watched
+2021-10-07 18:51:42,631 Processing: pts/viennacl
+2021-10-07 18:51:43,168 Options: [1]
+2021-10-07 18:51:43,168 Run with opt: [1]
+2021-10-07 18:51:43,169 ** Registered to ReCode statistics: pts/viennacl_[1]
+2021-10-07 18:52:25,319 Run finished with DETECTED: 0
+2021-10-07 18:52:25,332 * Watched
+2021-10-07 18:52:25,332 Processing: pts/webp
+2021-10-07 18:52:25,866 Options: [6]
+2021-10-07 18:52:25,866 Run with opt: [1]
+2021-10-07 18:52:25,867 ** Registered to ReCode statistics: pts/webp_[1]
+2021-10-07 18:52:34,470 Run finished with DETECTED: 0
+2021-10-07 18:52:34,483 * Watched
+2021-10-07 18:52:34,483 Run with opt: [2]
+2021-10-07 18:52:34,484 ** Registered to ReCode statistics: pts/webp_[2]
+2021-10-07 18:52:44,477 Run finished with DETECTED: 0
+2021-10-07 18:52:44,489 * Watched
+2021-10-07 18:52:44,489 Run with opt: [3]
+2021-10-07 18:52:44,491 ** Registered to ReCode statistics: pts/webp_[3]
+2021-10-07 18:53:02,697 Run finished with DETECTED: 0
+2021-10-07 18:53:02,709 * Watched
+2021-10-07 18:53:02,709 Processing: pts/xsbench-cl
+2021-10-07 18:53:03,252 Options: [1]
+2021-10-07 18:53:03,252 Run with opt: [1]
+2021-10-07 18:53:03,254 ** Registered to ReCode statistics: pts/xsbench-cl_[1]
+2021-10-07 18:53:09,056 Run finished with DETECTED: 0
+2021-10-07 18:53:09,069 * Watched
+2021-10-07 18:53:09,069 Processing: system/darktable
+2021-10-07 18:53:09,687 Options: [5]
+2021-10-07 18:53:09,687 Run with opt: [1]
+2021-10-07 18:53:09,689 ** Registered to ReCode statistics: system/darktable_[1]
+2021-10-07 18:53:29,326 Run finished with DETECTED: 0
+2021-10-07 18:53:29,339 * Watched
+2021-10-07 18:53:29,339 Run with opt: [2]
+2021-10-07 18:53:29,340 ** Registered to ReCode statistics: system/darktable_[2]
+2021-10-07 18:53:49,124 Run finished with DETECTED: 0
+2021-10-07 18:53:49,138 * Watched
+2021-10-07 18:53:49,138 Run with opt: [3]
+2021-10-07 18:53:49,139 ** Registered to ReCode statistics: system/darktable_[3]
+2021-10-07 18:54:05,869 Run finished with DETECTED: 0
+2021-10-07 18:54:05,885 * Watched
+2021-10-07 18:54:05,885 Processing: system/gegl
+2021-10-07 18:54:06,338 Options: [10]
+2021-10-07 18:54:06,338 Run with opt: [1]
+2021-10-07 18:54:06,340 ** Registered to ReCode statistics: system/gegl_[1]
+2021-10-07 18:55:15,927 Run finished with DETECTED: 0
+2021-10-07 18:55:15,960 * Watched
+2021-10-07 18:55:15,960 103226: gegl	1	1	1	0
+2021-10-07 18:55:15,960 103277: gegl	1	1	1	0
+2021-10-07 18:55:15,960 103325: gegl	2	4	3	0
+2021-10-07 18:55:15,960 103426: gegl	2	4	3	0
+2021-10-07 18:55:15,960 Run with opt: [2]
+2021-10-07 18:55:15,963 ** Registered to ReCode statistics: system/gegl_[2]
+2021-10-07 18:55:31,423 Run finished with DETECTED: 0
+2021-10-07 18:55:31,452 * Watched
+2021-10-07 18:55:31,452 103819: gegl	1	1	1	0
+2021-10-07 18:55:31,452 Run with opt: [3]
+2021-10-07 18:55:31,453 ** Registered to ReCode statistics: system/gegl_[3]
+2021-10-07 18:56:36,618 Run finished with DETECTED: 0
+2021-10-07 18:56:36,633 * Watched
+2021-10-07 18:56:36,634 104169: gegl	2	5	3	0
+2021-10-07 18:56:36,634 104240: gegl	1	1	1	0
+2021-10-07 18:56:36,634 Processing: system/gimp
+2021-10-07 18:56:37,152 Options: [5]
+2021-10-07 18:56:37,152 Run with opt: [1]
+2021-10-07 18:56:37,154 ** Registered to ReCode statistics: system/gimp_[1]
+2021-10-07 18:57:08,356 Run finished with DETECTED: 0
+2021-10-07 18:57:08,368 * Watched
+2021-10-07 18:57:08,368 Run with opt: [2]
+2021-10-07 18:57:08,370 ** Registered to ReCode statistics: system/gimp_[2]
+2021-10-07 18:57:30,984 Run finished with DETECTED: 0
+2021-10-07 18:57:30,996 * Watched
+2021-10-07 18:57:30,997 Run with opt: [3]
+2021-10-07 18:57:30,998 ** Registered to ReCode statistics: system/gimp_[3]
+2021-10-07 18:57:58,945 Run finished with DETECTED: 0
+2021-10-07 18:57:58,957 * Watched
+2021-10-07 18:57:58,957 Processing: system/gnupg
+2021-10-07 18:57:59,485 Options: [1]
+2021-10-07 18:57:59,485 Run with opt: [1]
+2021-10-07 18:57:59,487 ** Registered to ReCode statistics: system/gnupg_[1]
+2021-10-07 18:58:26,798 Run finished with DETECTED: 0
+2021-10-07 18:58:26,811 * Watched
+2021-10-07 18:58:26,811 Processing: system/rsvg
+2021-10-07 18:58:27,333 Options: [1]
+2021-10-07 18:58:27,334 Run with opt: [1]
+2021-10-07 18:58:27,335 ** Registered to ReCode statistics: system/rsvg_[1]
+2021-10-07 18:59:05,915 Run finished with DETECTED: 0
+2021-10-07 18:59:05,927 * Watched
+2021-10-07 18:59:05,927 Test completed: 159
+2021-10-07 18:59:05,928 Detected: 0
